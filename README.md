@@ -2,6 +2,10 @@
 
 A React + Vite + Tailwind + shadcn/ui powered Chrome extension that lets you highlight DOM elements on any visited page and lays the groundwork for adding contextual notes. Clean architecture, Shadow DOM isolation, and a fast monorepo setup with pnpm.
 
+
+https://github.com/user-attachments/assets/0652d566-3fc5-4011-8357-bc4d1b87ddee
+
+
 ## Features
 - Element highlighter overlay injected via content script
 - Shadow DOM isolation for styles and UI
